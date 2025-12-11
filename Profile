@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sanica Chaudhary | Cybersecurity Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f6f9;
+            color: #333;
+        }
+        header {
+            background: #0a2540;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        section {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            margin-top: 30px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #0a2540;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        a {
+            color: #0a66c2;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            margin-top: 50px;
+            background: #0a2540;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Sanica Chaudhary</h1>
+    <p>MS in Cybersecurity | Northeastern University</p>
+</header>
+
+<section>
+    <h2>Module 4: Professional Introduction</h2>
+    <p>A brief introduction about my academic background, professional interests, and career goals.</p>
+    <p>🔗 <a href="PUT-YOUR-VIDEO-LINK-HERE" target="_blank">Watch My Introduction Video</a></p>
+</section>
+
+<section>
+    <h2>Module 7: Professional Resume</h2>
+    <p>Download my most up-to-date professional resume below.</p>
+    <p>📄 <a href="PUT-YOUR-RESUME-LINK-HERE" target="_blank">Download My Resume (PDF)</a></p>
+</section>
+
+<section>
+    <h2>Module 8: Tell Me About Yourself</h2>
+    <p>My refined interview introduction used during professional networking and interviews.</p>
+    <p>🎤 <a href="PUT-YOUR-TMAY-VIDEO-LINK-HERE" target="_blank">Watch My TMAY Video</a></p>
+</section>
+
+<section>
+    <h2>Module 9: Job Search Strategy Plan</h2>
+    <p>This document outlines my targeted job interests, networking plan, and application timeline.</p>
+    <p>📝 <a href="PUT-YOUR-JOB-STRATEGY-LINK-HERE" target="_blank">View My Job Search Strategy Plan</a></p>
+</section>
+
+<section>
+    <h2>Module A: My “Why” Statement</h2>
+    <p>
+        I chose Cybersecurity because I am deeply interested in protecting critical systems, digital infrastructure,
+        and sensitive information from evolving cyber threats. This field allows me to combine problem-solving,
+        technical expertise, and real-world impact as I work toward becoming a security professional.
+    </p>
+    <p>📘 <a href="PUT-YOUR-WHY-STATEMENT-LINK-HERE" target="_blank">Download My Why Statement (PDF)</a></p>
+</section>
+
+<section>
+    <h2>Module B: Accomplishment Stories</h2>
+    <ul>
+        <li>Successfully completed multiple Linux security configuration and SSH hardening labs.</li>
+        <li>Developed risk assessment models for critical infrastructure networks.</li>
+        <li>Led technical documentation and team communication for cybersecurity projects.</li>
+    </ul>
+    <p>🏆 <a href="PUT-YOUR-ACCOMPLISHMENTS-LINK-HERE" target="_blank">Download My Full Accomplishment Stories (PDF)</a></p>
+</section>
+
+<footer>
+    <p>© 2025 Sanica Chaudhary | Cybersecurity e-Portfolio</p>
+</footer>
+
+</body>
+</html>
